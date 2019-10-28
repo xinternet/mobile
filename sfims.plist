@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sfims.snu.ac.kr/FileUpload/MB/Sfims.iOS.ipa</string>
+					<string>https://sfims.snu.ac.kr/FileUpload/MB/Sfims.iOS.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
